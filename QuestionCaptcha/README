@@ -2,11 +2,7 @@ StatusNet Question Captcha plugin
 =================================
 Adds a captcha to your registration page to reduce automated spam bots registering.
 
-Add to your config:
-
-    addPlugin("QuestionCaptcha");
-    
-and you're ready.
+Launch scripts/generate-codes.php, put printed information into config.php, and you're ready.
 
 Changelog
 =========
